@@ -1,0 +1,2 @@
+# No dependencies — standard library only (ast, argparse, json, unittest).
+# Python 3.10+ recommended.
